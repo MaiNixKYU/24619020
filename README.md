@@ -120,3 +120,6 @@ from google.colab import files
 files.download('ensemble_submit.csv')
 
 
+![캡처](https://github.com/user-attachments/assets/b48581da-e9ef-4257-8151-1cdbbc965310)
+
+![캡처1](https://github.com/user-attachments/assets/4ba8435b-24f6-40a7-a2c6-7ca07d678df7)
